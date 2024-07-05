@@ -29,6 +29,7 @@ Only aggregated, anonymized data is periodically transmitted to external service
 
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
+*   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [One Signal](https://onesignal.com/privacy_policy)
 *   [Expo](https://expo.io/privacy)
